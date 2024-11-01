@@ -1,0 +1,5 @@
+vendor/
+local/
+composer.lock
+tests/data/client-credentials.json
+data-store.json
